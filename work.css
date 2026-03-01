@@ -1,0 +1,48 @@
+* {
+    background-color: #455F9E;
+}
+
+
+header {
+    display: flex;
+    font-size: 20px;
+    padding: 10px 9%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.logo {
+
+    text-decoration: none;
+    font-size: 35px;
+    color: #1B1E3E;
+    font-weight: 600;
+}
+
+button a {
+    text-decoration: none;
+    color: #F8F9FD;
+}
+
+.header-btn {
+    background-color: transparent;
+    color: #1B1E3E;
+    font-size: 15px;
+    margin-right: 12px;
+    border-radius: 20px;
+    padding: 10px;
+
+    border-color: #455F9E;
+}
+
+.header-btn:hover {
+    color: #1B1E3E;
+    cursor: pointer;
+    box-shadow: 3px 3px 9px #F8F9FD;
+}
+
+button a:hover {
+    color: #1B1E3E;
+}
